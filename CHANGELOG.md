@@ -2,6 +2,22 @@
 
 All notable changes to `robots-txt` will be documented in this file
 
+## 2.5.2 - 2025-09-19
+
+### What's Changed
+
+* Bump aglipanci/laravel-pint-action from 2.5 to 2.6 by @dependabot[bot] in https://github.com/spatie/robots-txt/pull/73
+* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/spatie/robots-txt/pull/72
+* Update issue template by @AlexVanderbist in https://github.com/spatie/robots-txt/pull/77
+* fix(#75) : fix an issue that subsequence file_get_contents calls can cause 429 status error by @sebestenyb in https://github.com/spatie/robots-txt/pull/76
+
+### New Contributors
+
+* @AlexVanderbist made their first contribution in https://github.com/spatie/robots-txt/pull/77
+* @sebestenyb made their first contribution in https://github.com/spatie/robots-txt/pull/76
+
+**Full Changelog**: https://github.com/spatie/robots-txt/compare/2.5.1...2.5.2
+
 ## 2.5.1 - 2025-07-01
 
 ### What's Changed
