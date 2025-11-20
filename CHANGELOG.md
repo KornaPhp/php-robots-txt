@@ -2,6 +2,19 @@
 
 All notable changes to `robots-txt` will be documented in this file
 
+## 2.5.3 - 2025-11-20
+
+### What's Changed
+
+* Bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/spatie/robots-txt/pull/78
+* Revert meta content change by @Nathanw in https://github.com/spatie/robots-txt/pull/80
+
+### New Contributors
+
+* @Nathanw made their first contribution in https://github.com/spatie/robots-txt/pull/80
+
+**Full Changelog**: https://github.com/spatie/robots-txt/compare/2.5.2...2.5.3
+
 ## 2.5.2 - 2025-09-19
 
 ### What's Changed
