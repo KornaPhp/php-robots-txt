@@ -2,6 +2,10 @@
 
 All notable changes to `robots-txt` will be documented in this file
 
+## 2.5.4 - 2026-02-25
+
+Send user agent header with file_get_contents requests to prevent Cloudflare and similar WAFs from blocking requests
+
 ## 2.5.3 - 2025-11-20
 
 ### What's Changed
